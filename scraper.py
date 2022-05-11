@@ -1,11 +1,12 @@
-# step 1: import requests
-
-import requests
-
 # step 5: need to parse the raw HTML data to make it easier to read.
 # import Beautiful Soup
 
 from bs4 import BeautifulSoup
+
+# step 1: import requests
+
+import requests
+
 
 # step 2: add URL for Wikipedia website of choice
 
